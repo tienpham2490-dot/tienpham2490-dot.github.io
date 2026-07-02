@@ -5772,7 +5772,6 @@ bidmachine.io, 477, DIRECT
 
 
 #Updated 31th October
-managerdomain=bidmachine.io
 #Google
 google.com,pub-7279990999620104,DIRECT,f08c47fec0942fa0
 #Reseller
